@@ -14,6 +14,6 @@ Feito a partir de curso no youtube: https://www.youtube.com/playlist?list=PLJIP7
 Créditos: Tiago Luz
 
 
-<img src="img/login">
-<img src="img/menu">
-<img src="img/agenda">
+<img src="img/login.png">
+<img src="img/menu.png">
+<img src="img/agenda.png">
